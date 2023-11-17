@@ -47,6 +47,7 @@ const Login = () => {
                   Login
                 </button>
               </div>
+              <a href="register" class="card-link">Signup</a>
             </div>
           </div>
         </div>
